@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julienbelinga&label=Profile%20views&color=0e75b6&style=flat" alt="julienbelinga" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](julien-belinga.fr)
+- 🔭 I’m currently working on [My portfolio](https://julien-belinga.fr)
 
 - 🌱 I’m currently learning/improving **React.js**
 
