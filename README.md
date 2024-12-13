@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My portfolio](https://julien-belinga.fr)
 
-- 🌱 I’m currently learning/improving **React.js**
+- 🌱 I’m currently learning/improving **Flutter**
 
 - 👯 I’m looking to collaborate on **new Saas ideas**
 
