@@ -50,6 +50,7 @@
 
 ### 📄 Resume & Projects
 
+- 🧾 [My CV (PDF)](https://julien-belinga.fr/CV_Julien_Belinga.pdf)
 - 💻 [All projects](https://julien-belinga.fr/fr#projects)
 
 ---
